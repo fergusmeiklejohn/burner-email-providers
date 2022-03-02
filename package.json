@@ -26,5 +26,6 @@
     "types": "index.d.ts",
     "scripts": {
         "test": "node test.js"
-    }
+    },
+    "sideEffects": false
 }
